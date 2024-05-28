@@ -8,19 +8,19 @@ Sou desenvolvedor Python, analista e administrador de dados jr e um amante da ar
 
 
 ### 👨‍💻 Um Pouco Sobre Mim:
-- 🚀 Apaixonado por resolver problemas complexos com código simples e elegante.
-- 🧩 Adoro quebra-cabeças de dados e transformar números em insights acionáveis.
-- 🎮 Gamer nas horas vagas (acredito que um bom jogo pode inspirar grandes ideias!).
+- Apaixonado por resolver problemas complexos com código simples e elegante.
+- Adoro quebra-cabeças de dados e transformar números em insights acionáveis.
+- Gamer nas horas vagas (acredito que um bom jogo pode inspirar grandes ideias!).
 
 ### 🛠️ Tecnologias e Ferramentas:
-- **Linguagens**: Python 🐍
-- **Análise de Dados**: Pandas, Power BI 📊
-- **Bancos de Dados**: MySQL, MariaDB, NoSQL (MongoDB) 💾
-- **Controle de Versão**: Git 🌱
-- **Design e Arte**: Figma, Photoshop, Blender 🎨
+- **Linguagens**: Python
+- **Análise de Dados**: Pandas, Power BI 
+- **Bancos de Dados**: MySQL, MariaDB, NoSQL (MongoDB) 
+- **Controle de Versão**: Git 
+- **Design e Arte**: Figma, Photoshop, Blender 
 
 ### 🎨 Easter Eggs Artísticos
-Quando não estou analisando dados ou escrevendo scripts, você pode me encontrar rabiscando algumas ideias ou criando alguns mundos malucos. Quem sabe, talvez você encontre alguns dessas ideias escondidas no meu código! 🎨🐇
+Quando não estou analisando dados ou escrevendo scripts, você pode me encontrar rabiscando algumas ideias ou criando alguns mundos malucos. Quem sabe, talvez você encontre alguns dessas ideias escondidas no meu código! 
 
 
 ### 🌐 Conecte-se Comigo:
