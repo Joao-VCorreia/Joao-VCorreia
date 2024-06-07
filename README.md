@@ -24,8 +24,8 @@ Quando não estou analisando dados ou escrevendo scripts, você pode me encontra
 
 
 ### 🌐 Conecte-se Comigo:
-![Linkedin](https://img.shields.io/badge/Linkedin-%23FFDE59?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=%23FE9900&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoao-vitor-correia%2F)
-![Static Badge](https://img.shields.io/badge/Instagram-%23FFDE59?style=for-the-badge&logo=instagram&logoColor=black&labelColor=%23FE9900&link=https%3A%2F%2Fwww.instagram.com%2Fjota.vcorreia%2F)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23FFDE59?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=%23FE9900)](https://www.linkedin.com/in/joao-vitor-correia/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FFDE59?style=for-the-badge&logo=instagram&logoColor=black&labelColor=%23FE9900)](https://www.instagram.com/jota.vcorreia/)
 
 
 
