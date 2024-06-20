@@ -6,7 +6,6 @@ Sou desenvolvedor Python, analista e administrador de dados jr e um amante da ar
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NvcnJ3eDd1MDc0azlseXVncGNkajQ5NHVyaHUzYzQyMnZzY2k2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOFB74VjN0OqvRmJGK/giphy.gif" alt="Coder GIF" width="500"/>
 </p>
 
-
 ### 👨‍💻 Um Pouco Sobre Mim:
 - Apaixonado por resolver problemas complexos com código simples e elegante.
 - Adoro quebra-cabeças de dados e transformar números em insights acionáveis.
@@ -27,7 +26,7 @@ Sou desenvolvedor Python, analista e administrador de dados jr e um amante da ar
 
 - **Objetivo** : Esta ferramenta visa gerar de maneira eficiente número de etiquetas usadas em kits de medicamentos totalmente personalizados, colaborando para uma redução de material descartado, padronização de modelo e otimização do tempo.
 - **Tecnologias Usadas**: Python, Pandas, Steamlit e Reportlab.
-- 
+
 ### 🎨 Easter Eggs Artísticos
 Quando não estou analisando dados ou escrevendo scripts, você pode me encontrar rabiscando algumas ideias ou criando alguns mundos malucos. Quem sabe, talvez você encontre alguns dessas ideias escondidas no meu código! 
 
