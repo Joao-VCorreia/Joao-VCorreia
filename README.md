@@ -24,7 +24,7 @@ Sou desenvolvedor Python, C#, um aprendiz no desenvolvimento de jogos e um amant
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joao-VCorreia&repo=etiquetas-inteligentes&theme=gruvbox" alt="Projeto em Destaque">
 </a>
 <a href="https://github.com/Joao-VCorreia/dodge-the-creeps">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joao-VCorreia&repo=dodge-the-creeps&theme=gruvbox" alt="Projeto em Destaque">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joao-VCorreia&repo=dodge-the-creeps&theme=gruvbox" alt="Dodge the Creeps!">
 </a>
 
 - **Objetivo** : Esta ferramenta visa gerar de maneira eficiente número de etiquetas usadas em kits de medicamentos totalmente personalizados, colaborando para uma redução de material descartado, padronização de modelo e otimização do tempo.
