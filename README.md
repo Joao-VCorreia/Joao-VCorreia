@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo João Correia</h1>
+<h1 align="center">Olá, me chamo João Correia</h1>
 
 Sou desenvolvedor Python, C#, um aprendiz no desenvolvimento de jogos e um amante da arte nas horas vagas 👨‍🎨
 
@@ -6,19 +6,19 @@ Sou desenvolvedor Python, C#, um aprendiz no desenvolvimento de jogos e um amant
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NvcnJ3eDd1MDc0azlseXVncGNkajQ5NHVyaHUzYzQyMnZzY2k2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOFB74VjN0OqvRmJGK/giphy.gif" alt="Coder GIF" width="500"/>
 </p>
 
-### 👨‍💻 Um Pouco Sobre Mim:
+### Um Pouco Sobre Mim:
 - Apaixonado por resolver problemas complexos com códigos simples.
 - Adoro estimular a criatividade para criar histórias e ferramentas fora da caixinha.
 - Gamer nas horas vagas (acredito que um bom jogo pode inspirar grandes ideias!).
 
-### 🛠️ Tecnologias e Ferramentas:
+### Tecnologias e Ferramentas:
 - **Linguagens**: Python e C#
 - **Análise de Dados**: Pandas, Power BI 
 - **Bancos de Dados**: MySQL, MariaDB, NoSQL (MongoDB) 
 - **Controle de Versão**: Git 
 - **Design e Arte**: Godot, Photoshop, Blender 
 
-### 📌 Projeto em Destaque:
+### Projeto em Destaque:
 
 <a href="https://github.com/joao-vcorreia/etiquetas-inteligentes">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joao-VCorreia&repo=etiquetas-inteligentes&theme=gruvbox" alt="Projeto em Destaque">
