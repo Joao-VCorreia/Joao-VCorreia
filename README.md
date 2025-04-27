@@ -34,4 +34,5 @@ Sou desenvolvedor Python, C#, um aprendiz no desenvolvimento de jogos e um amant
 Quando não estou analisando dados ou escrevendo scripts, você pode me encontrar rabiscando algumas ideias ou criando alguns mundos malucos. Quem sabe, talvez você encontre alguns dessas ideias escondidas no meu código! 
 
 ### 🌐 Conecte-se Comigo:
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23FFDE59?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=%23FE9900)](https://www.linkedin.com/in/joao-vitor-correia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FFDE59?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=%23FE9900)](https://www.linkedin.com/in/joao-vitor-correia/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23FFDE59?style=for-the-badge&logo=instagram&logoColor=black&labelColor=%23FE9900)](https://www.instagram.com/jottacor/)
