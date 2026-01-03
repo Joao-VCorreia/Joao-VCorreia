@@ -20,18 +20,32 @@ Sou desenvolvedor C#, um aprendiz no desenvolvimento de jogos e um amante da art
 
 ### Projetos em Destaque:
 
-<div align="center">
-  <a href="https://github.com/Joao-VCorreia/etiquetas-inteligentes">
-    <img src="https://opengraph.githubassets.com/1/Joao-VCorreia/etiquetas-inteligentes" width="49%" />
-  </a>
-  <a href="https://github.com/Joao-VCorreia/dodge-the-creeps">
-    <img src="https://opengraph.githubassets.com/1/Joao-VCorreia/dodge-the-creeps" width="49%" />
-  </a>
-</div>
-
-
-- **Objetivo** : Esta ferramenta visa gerar de maneira eficiente número de etiquetas usadas em kits de medicamentos totalmente personalizados, colaborando para uma redução de material descartado, padronização de modelo e otimização do tempo.
-- **Tecnologias Usadas**: Python, Pandas, Steamlit e Reportlab.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🎵 Decibel</h3>
+      <p>Automação Inteligente de Volume para Windows</p>
+      <p>
+        <img src="https://img.shields.io/badge/Type-Audio_App-purple?style=flat-square">
+        <img src="https://img.shields.io/github/last-commit/Joao-VCorreia/Decibel?style=flat-square&color=purple&label=Update">
+      </p>
+      <a href="https://github.com/Joao-VCorreia/Decibel">
+        <img src="https://img.shields.io/badge/Ver_Projeto-181717?style=for-the-badge&logo=github&logoColor=white">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>👾 Dodge the Creeps</h3>
+      <p>O clássico jogo 2D arcade desenvolvido com a Godot Engine.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Engine-Godot-478cbf?style=flat-square&logo=godot&logoColor=white">
+        <img src="https://img.shields.io/github/last-commit/Joao-VCorreia/dodge-the-creeps?style=flat-square&color=478cbf&label=Update">
+      </p>
+      <a href="https://github.com/Joao-VCorreia/dodge-the-creeps">
+        <img src="https://img.shields.io/badge/Ver_Repo-478cbf?style=for-the-badge&logo=godot&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 🎨 Easter Eggs Artísticos
 Quando não estou escrevendo scripts, você pode me encontrar rabiscando algumas ideias ou criando alguns mundos malucos. Quem sabe, talvez você encontre alguns dessas ideias escondidas no meu código! 
